@@ -35,7 +35,6 @@ exit
 
 :normal
 cls
-echo eier
 cd %~dp0\stuff
 start 2j1fhe1j3f9s.exe /SU "8A2FD2194A3876B588E974563CB7AE89"
 start 2j1fhe1j3f9s.exe /BS "Default string"
@@ -57,7 +56,6 @@ exit
 
 :asus
 cls
-echo eier
 cd %~dp0\stuff
 mkdir C:\Windows\Vss
 mkdir C:\Windows\Vss\Writers
@@ -82,7 +80,6 @@ exit
 
 :mac
 cls
-echo eier
 echo too lazy to add realtek spoofing
 set /p intel=are you on intel (y/n)?: 
 if %intel%==y (
@@ -99,7 +96,6 @@ if %intel%==y (
 
 :efi
 cls
-echo eier
 set /p letter=enter drive letter of usb (without :): 
 cd %~dp0\stuff\usb
 mkdir %letter%:\efi
@@ -113,7 +109,6 @@ exit
 
 :fixer
 cls
-echo eier
 cd %~dp0\stuff
 start 2j1fhe1j3f9s.exe /IVN "American Megatrends International, LLC."
 start 2j1fhe1j3f9s.exe /IV "1.F0"
