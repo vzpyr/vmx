@@ -4,8 +4,8 @@ reverse-engineering vmx spoofer
 ![image](https://github.com/user-attachments/assets/df48c882-6e89-47eb-867e-e18bc6f16150)
 
 # info
-- basic amidewin spoofer with a few other little features
-- previously sold on a [shopify store](https://170nbq-ed.myshopify.com/) for 13,95€ (onetime)/39,95€ (lifetime)
+* basic amidewin spoofer with a few other little features
+* previously sold on a [shopify store](https://170nbq-ed.myshopify.com/) for 13,95€ (onetime)/39,95€ (lifetime)
 
 # features
 ### normal spoof:
